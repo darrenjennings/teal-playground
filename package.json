@@ -22,7 +22,7 @@
     "@types/jest": "^24.0.19",
     "@vitejs/plugin-vue": "^1.6.1",
     "typescript": "~3.9.3",
-    "vite": "^2.5.4",
+    "vite": "^2.9.18",
     "vite-plugin-vue2": "1.9.0",
     "vite-plugin-require": "~1.1.11",
     "vue-template-compiler": "~2.6.14"
